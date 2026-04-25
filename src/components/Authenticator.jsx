@@ -108,7 +108,7 @@ export default function Auth() {
             onClick={() => setIsLogin(!isLogin)}
             style={{ color: '#6c63ff', fontWeight: '600', cursor: 'pointer' }}
           >
-            {isLogin ? 'Sign Up' : 'Login'}
+            {isLogin ? 'Sign Up' : 'Loginn'}
           </span>
         </p>
       </div>
